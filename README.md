@@ -1,0 +1,2 @@
+# myselfbot
+discordbot
